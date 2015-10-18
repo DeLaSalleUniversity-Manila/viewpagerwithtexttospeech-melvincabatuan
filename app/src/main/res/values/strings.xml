@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_next">NEXT</string>
+    <string name="action_finish">FINISH</string>
+    <string name="action_previous">PREVIOUS</string>
+
+    <string-array name="infotext">
+        <item>Breast cancer is a disease in which malignant or cancer cells form in the tissues of the breast.</item>
+        <item>Breast cancer is by far the most common cancer in women worldwide, both in the developed and developing countries, according to the World Health Organization.</item>
+        <item>The Philippines is among the countries with highest trends in incidence of female breast cancer, according to GLOBOCAN 2012 data.</item>
+        <item>1 out of 13 Filipino women will develop breast cancer in her lifetime, as stated by the Philippine Breast Cancer Network.</item>
+        <item>The majority of deaths (269 000) occur in low- and middle-income countries, where most women with breast cancer are diagnosed in late stages, due mainly to lack of awareness on early detection, and barriers to health services, as stated by the World Health Organization.</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    tools:context="com.cabatuan.viewpagerdemo.MainActivity"
+    xmlns:viewpagerdemo="http://schemas.android.com/apk/res-auto">
+
+    <!-- Adds an item to the list. -->
+    <item android:id="@+id/action_previous"
+        android:title="@string/action_previous"
+        viewpagerdemo:showAsAction="always" />
+
+</menu>
